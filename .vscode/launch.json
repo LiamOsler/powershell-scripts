@@ -8,7 +8,7 @@
             "name": "PowerShell: Launch Script",
             "type": "PowerShell",
             "request": "launch",
-            "script": "./hello-world.ps1",
+            "script": "./main.ps1",
             "args": []
         }
     ]
